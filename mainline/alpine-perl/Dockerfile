@@ -3,7 +3,7 @@
 #
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
-ARG IMAGE=nginxinc/nginx-unprivileged:1.25.4-alpine
+ARG IMAGE=nginxinc/nginx-unprivileged:1.29.4-alpine
 FROM $IMAGE
 
 ARG UID=101
